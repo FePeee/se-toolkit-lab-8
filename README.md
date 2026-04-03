@@ -9,7 +9,7 @@
 > Set it up from scratch. Wire it into the system. Then extend it with observability tools so it can answer questions about sysdtem health too.
 
 > [!IMPORTANT]
-> Do the whole lab on your **VM**. You can work through a plain SSH shell or through `VS Code` Remote-SSH. When this guide says `localhost`, it means the VM itself or a forwarded port from that VM. Do not install or run `nanobot` on your main machine.
+> Do the whole lab on your **VM**. You can work through a plain SSH shell or through `VS Code` Remotasdasde-SSH. When this guide says `localhost`, it means the VM itself or a forwarded port from that VM. Do not install or run `nanobot` on your main machine.
 
 ## What you will learn
 
